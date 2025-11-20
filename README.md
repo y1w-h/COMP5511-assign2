@@ -38,7 +38,6 @@ Assign2/
     └── Assignment2_Report.docx           # Final written report (template filled in)
 ````
 
-> **Note:** The exact folder names may differ slightly depending on where you place the report file.
 
 
 ## 2. Environment & Dependencies
