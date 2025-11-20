@@ -40,7 +40,6 @@ Assign2/
 
 > **Note:** The exact folder names may differ slightly depending on where you place the report file.
 
----
 
 ## 2. Environment & Dependencies
 
@@ -60,7 +59,6 @@ If Gymnasium complains about missing extras for FrozenLake, install:
 pip install "gymnasium[toy-text]"
 ```
 
----
 
 ## 3. Task I – Linear Regression on ParisHousing
 
@@ -86,7 +84,6 @@ python task1_paris_housing.py
 
 The script prints evaluation metrics to the console; you can copy them into the report.
 
----
 
 ## 4. Task II – Denoising Autoencoder on Fashion-MNIST
 
@@ -117,7 +114,6 @@ python task2_fashion_denoise.py
 
 Outputs (figures) are saved in the same folder and referenced in the report.
 
----
 
 ## 5. Task III – LLM for Neural Network Design
 
@@ -131,7 +127,6 @@ Task III is mainly **conceptual** and documented in the written report:
 
 There is no separate executable script for Task III; the discussion is integrated in the report.
 
----
 
 ## 6. Task IV – Reinforcement Learning on FrozenLake-v1
 
@@ -169,7 +164,6 @@ python frozenlake_q_learning.py
 
 After training, check the folder for the learning curve image and GIFs and embed them into the report.
 
----
 
 ## 7. Reproducibility Notes
 
@@ -177,17 +171,6 @@ After training, check the folder for the learning curve image and GIFs and embed
 * All experiments were run on CPU; no GPU-specific code is required.
 * If you encounter path issues, run the scripts from the project root and adjust relative paths accordingly.
 
----
 
-## 8. Contact
 
-If you have any questions about the code or report structure, please contact:
 
-* **Name:** (fill in your name here)
-* **Email:** (your PolyU / university email here)
-
-```
-
-你可以把上面整段复制到 `README.md` 里，然后把名字和邮箱改成你自己的，就齐活了。
-::contentReference[oaicite:0]{index=0}
-```
